@@ -1,6 +1,8 @@
 Mini Portfólio
 Um site pessoal simples e direto criado com HTML, CSS e JavaScript. Ideal para apresentar seu perfil profissional, projetos e formas de contato de maneira clara e moderna.
 
+Link: http://127.0.0.1:5500/index.html
+
 🚀 Tecnologias Utilizadas
 HTML5
 
@@ -9,12 +11,11 @@ CSS3
 JavaScript (vanilla)
 
 📁 Estrutura do Projeto
-pgsql
-Copiar
-Editar
+
 mini-portifolio/
 ├── index.html
 └── README.md
+
 ⚙️ Funcionalidades
 Seção “Sobre” com uma breve apresentação
 
@@ -25,26 +26,20 @@ Links diretos para seu currículo, GitHub e LinkedIn
 🛠️ Como Usar
 Clone o repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/Ricardoleaom/mini-portifolio.git
+
 Acesse a pasta do projeto:
 
-bash
-Copiar
-Editar
 cd mini-portifolio
+
 Abra o arquivo index.html no navegador:
 
 Ou com duplo clique, ou
 
 Rodando um servidor local, por exemplo:
 
-bash
-Copiar
-Editar
 npx http-server .
+
 🎨 Customização
 Para modificar o conteúdo:
 
